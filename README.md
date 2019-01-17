@@ -1,4 +1,4 @@
-This is a simple project for how to use axios js library for ajax requests which is a promise based HTTP client.
+This is a simple project for how to use axios js library, which is a promise based HTTP client, for ajax requests.
 
 How to use project:
 1. run "npm install" in project root directory.
