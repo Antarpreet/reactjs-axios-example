@@ -1,0 +1,1 @@
+This is a simple project for how to use axios js library for ajax requests which is a promise based HTTP client.
